@@ -72,6 +72,39 @@
         "api-reference/endpoint/update",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "Inline email validation",
+      "pages": [
+        "inline-email-validation/verify-up-to-10-email-addresses"
+      ]
+    },
+    {
+      "group": "Working with batches",
+      "pages": [
+        "working-with-batches/retrieve-all-batches-for-your-account",
+        "working-with-batches/retrieve-a-single-batch-by-its-uuid",
+        "working-with-batches/download-csv-of-a-batch-with-an-extra-column-that-has-the-email-validation-results",
+        "working-with-batches/download-csv-of-a-batch-with-the-invalid-emails-removed"
+      ]
+    },
+    {
+      "group": "Batch email validation",
+      "pages": [
+        "batch-email-validation/verify-a-list-of-emails"
+      ]
+    },
+    {
+      "group": "Batch validation",
+      "pages": [
+        "batch-validation/delete-a-batch-by-its-uuid"
+      ]
+    },
+    {
+      "group": "Me",
+      "pages": [
+        "me/get-information-about-the-logged-in-user"
+      ]
     }
   ],
   "footerSocials": {
